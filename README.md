@@ -37,7 +37,6 @@
 </p>
 
 ---
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KalidasMarndi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -45,15 +44,6 @@
 </p>
 
 ---
-
-## 🧩 Featured Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalidasMarndi&repo=dsa-mini-notebook&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalidasMarndi&repo=ai-ml-projects&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔗 Connect
 <p align="center">
   <a href="mailto:marndikalidas7@gmail.com">
