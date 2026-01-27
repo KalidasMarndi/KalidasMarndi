@@ -7,14 +7,10 @@
 
 <br/>
 
----
-
 ## 🧠 AI / Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,numpy,pandas,scipy,sklearn,tensorflow,pytorch&theme=dark" />
 </p>
-
----
 
 ## 📊 Data & Visualization
 <p align="center">
@@ -22,14 +18,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48"/>
 </p>
 
----
-
 ## 🧮 Data Structures & Algorithms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark" />
 </p>
-
----
 
 ## 🌐 Web Development
 <p align="center">
@@ -39,9 +31,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
-
----
-
 ## 🧰 DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,vercel,netlify&theme=dark" />
@@ -51,16 +40,16 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalidasMarndi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KalidasMarndi&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🧩 Featured Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=dsa-mini-notebook&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=ai-ml-projects&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalidasMarndi&repo=dsa-mini-notebook&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalidasMarndi&repo=ai-ml-projects&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
