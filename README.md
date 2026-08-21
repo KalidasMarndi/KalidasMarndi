@@ -15,7 +15,7 @@ Computer Science Student • Software Engineer in the Making • AI/ML • DSA �
 
 <td width="42%" align="center" valign="top">
 
-<img src="./asciiArt.png" width="100%" alt="Kalidas ASCII Art"/>
+<img src="./overlay-image.jpg" width="100%" alt="Kalidas ASCII Art"/>
 
 </td>
 
