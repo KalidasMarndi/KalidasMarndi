@@ -10,7 +10,7 @@ Computer Science Student • Software Engineer in the Making • AI/ML • DSA �
 
 <br>
 
-<table width="100%">
+<table width="10%">
 <tr>
 
 <td width="42%" align="center" valign="top">
