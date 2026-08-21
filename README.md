@@ -1,8 +1,55 @@
 <!--
   ANIMATED GITHUB PROFILE README — TERMINAL / TECHY THEME
-  Replace YOUR_USERNAME, YOUR_NAME, links, and skill icons below.
+  Replace YOUR_USERNAME, YOUR_GITHUB_LINK, etc. below.
   This file must live in a repo named exactly: YOUR_USERNAME/YOUR_USERNAME
 -->
+
+<div align="center">
+
+<!-- NEOFETCH-STYLE INFO BLOCK -->
+
+```
+                    ██╗  ██╗███╗   ███╗                  kalidas@nsut
+                    ██║ ██╔╝████╗ ████║                  ─────────────────────────────
+                    █████╔╝ ██╔████╔██║                  OS: Linux / Windows 10
+                    ██╔═██╗ ██║╚██╔╝██║                  Host: Netaji Subhas University
+                    ██║  ██╗██║ ╚═╝ ██║                       of Technology, Delhi
+                    ╚═╝  ╚═╝╚═╝     ╚═╝                  Degree: B.Tech CSE — Big Data
+                                                                 Analytics (2023–2027)
+
+                                                          ── Languages ──────────────────
+                                                          Programming: Java, Python, C++,
+                                                                       JavaScript, SQL
+                                                          Web: HTML, CSS, React, Node.js,
+                                                               Express.js, Tailwind, Bootstrap
+                                                          AI/ML: GenAI, LangChain, RAG,
+                                                                 Transformers, LLM APIs
+
+                                                          ── Tools & DB ─────────────────
+                                                          Databases: MySQL, MongoDB, PostgreSQL
+                                                          Tools: Git, GitHub, Postman, VS Code
+                                                          Libraries: Pandas, NumPy, Matplotlib,
+                                                                     Django, Flask
+
+                                                          ── Achievements ───────────────
+                                                          Amazon ML Challenge 2025: Top 3%
+                                                              (Global Rank, SMAPE 46.00)
+                                                          Hack for Delhi 2026: Top 10/30
+                                                              Finalist, Team Lead
+                                                          Adobe Express Hackathon 2026:
+                                                              Top 50, Team Lead & UI/UX
+
+                                                          ── Contact ─────────────────────
+                                                          Phone: 9341921434
+                                                          GitHub: github.com/YOUR_USERNAME
+                                                          LinkedIn: YOUR_LINKEDIN
+                                                          LeetCode / Codeforces / CodeChef:
+                                                              YOUR_HANDLES
+```
+
+</div>
+
+<br/>
 
 <div align="center">
 
