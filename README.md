@@ -6,48 +6,65 @@
 
 <div align="center">
 
-<!-- NEOFETCH-STYLE INFO BLOCK -->
+### <code>andrew@grant:~$</code>-style dashboard, rebuilt with your data
+### (GitHub READMEs can't render custom CSS panels/background art — this uses stacked terminal blocks instead, which is the closest reliable equivalent)
 
-```
-                    ██╗  ██╗███╗   ███╗                  kalidas@nsut
-                    ██║ ██╔╝████╗ ████║                  ─────────────────────────────
-                    █████╔╝ ██╔████╔██║                  OS: Linux / Windows 10
-                    ██╔═██╗ ██║╚██╔╝██║                  Host: Netaji Subhas University
-                    ██║  ██╗██║ ╚═╝ ██║                       of Technology, Delhi
-                    ╚═╝  ╚═╝╚═╝     ╚═╝                  Degree: B.Tech CSE — Big Data
-                                                                 Analytics (2023–2027)
-
-                                                          ── Languages ──────────────────
-                                                          Programming: Java, Python, C++,
-                                                                       JavaScript, SQL
-                                                          Web: HTML, CSS, React, Node.js,
-                                                               Express.js, Tailwind, Bootstrap
-                                                          AI/ML: GenAI, LangChain, RAG,
-                                                                 Transformers, LLM APIs
-
-                                                          ── Tools & DB ─────────────────
-                                                          Databases: MySQL, MongoDB, PostgreSQL
-                                                          Tools: Git, GitHub, Postman, VS Code
-                                                          Libraries: Pandas, NumPy, Matplotlib,
-                                                                     Django, Flask
-
-                                                          ── Achievements ───────────────
-                                                          Amazon ML Challenge 2025: Top 3%
-                                                              (Global Rank, SMAPE 46.00)
-                                                          Hack for Delhi 2026: Top 10/30
-                                                              Finalist, Team Lead
-                                                          Adobe Express Hackathon 2026:
-                                                              Top 50, Team Lead & UI/UX
-
-                                                          ── Contact ─────────────────────
-                                                          Phone: 9341921434
-                                                          GitHub: github.com/YOUR_USERNAME
-                                                          LinkedIn: YOUR_LINKEDIN
-                                                          LeetCode / Codeforces / CodeChef:
-                                                              YOUR_HANDLES
-```
+<h1>Hi, I'm Kalidas Marndi 👋</h1>
+<p><em>Code. Break. Build. Repeat.</em></p>
 
 </div>
+
+**`$ cat about_me.txt`**
+```yaml
+Host    : Netaji Subhas University of Technology, Delhi
+Degree  : B.Tech CSE — Big Data Analytics (CSDA)
+Program : Aug 2023 – July 2027   |   CGPA: 7.81
+IDE     : VS Code, IntelliJ IDEA
+Status  : FOCUSED   |   Mode: BUILDER
+```
+
+**`$ cat skills.txt`**
+```yaml
+Languages.Programming : Java, Python, C++, JavaScript, SQL
+Languages.Web          : HTML, CSS, React, Node.js, Express.js, Tailwind, Bootstrap
+AI / ML                : Generative AI, LangChain, RAG, Transformer Models,
+                          Foundation Models, API-based LLM Integration
+Databases & Tools      : MySQL, MongoDB, PostgreSQL, Git, GitHub, DBMS
+Libraries & Frameworks : Pandas, NumPy, Matplotlib, Django, Flask
+```
+
+**`$ cat contact.txt`**
+```yaml
+Phone     : 9341921434
+GitHub    : github.com/YOUR_USERNAME
+LinkedIn  : YOUR_LINKEDIN_URL
+LeetCode  : YOUR_LEETCODE_URL
+Codeforces: YOUR_CODEFORCES_URL
+CodeChef  : YOUR_CODECHEF_URL
+```
+
+**`$ cat github_stats.txt`**
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
+</div>
+
+> "First, solve the problem. Then, write the code. Finally, optimize everything."
+> — Kalidas Marndi
+
+**`$ cat achievements.txt`**
+```yaml
+Amazon ML Challenge 2025      : Global Rank Top 3% (SMAPE 46.00)
+Hack for Delhi 2026           : Top 10 Finalist, Team Lead
+Adobe Express Hackathon 2026  : Top 50, Team Lead & Core UI/UX
+Competitive Programming       : LeetCode 1400+, Codeforces 1000+, CodeChef 1200+
+                                 500+ DSA problems solved across 20+ patterns
+```
+
+```bash
+> while(alive) { learn(); code(); build(); repeat(); }
+```
 
 <br/>
 
