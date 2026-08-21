@@ -10,7 +10,9 @@
 
 <!-- ASCII ART PROFILE IMAGE -->
 <p align="center">
-  <img src="./assets/asciiArt.png" width="900" alt="ASCII Art Profile"/>
+ <div align="center">
+  <img src="./asciiArt.png" width="900" alt="ASCII Art Profile"/>
+</div>
 </p>
 
 <br/>
