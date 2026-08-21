@@ -1,68 +1,71 @@
-<h1 align="center">Hi 👋, I'm Kalidas</h1>
-<h3 align="center">Software Engineer in the Making • DSA • AI/ML • Web</h3>
+<!--
+  ANIMATED GITHUB PROFILE README — TERMINAL / TECHY THEME
+  Replace YOUR_USERNAME, YOUR_NAME, links, and skill icons below.
+  This file must live in a repo named exactly: YOUR_USERNAME/YOUR_USERNAME
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=DSA+%7C+AI+%7C+Web+Development;Building+Clean+and+Scalable+Systems;Learning+Every+Day" />
-</p>
+<div align="center">
+
+<!-- Animated wave/rect header banner (capsule-render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20YOUR_NAME&fontSize=38&fontColor=00ff9c&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descColor=8be9fd" />
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World%22);;while(alive)+%7B+code(); %7D;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
 
 <br/>
 
-## 🧠 AI / Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,numpy,pandas,scipy,sklearn,tensorflow,pytorch&theme=dark" />
-</p>
+<!-- Fake terminal block for extra techy feel -->
+```bash
+> whoami
+YOUR_NAME — Software Developer based on Earth 🌍
 
-## 📊 Data & Visualization
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48"/>
-</p>
+> cat skills.txt
+Languages   : JavaScript, Python, C++
+Frameworks  : React, Node.js, Django
+Currently   : Learning Rust 🦀
+Fun fact    : This README's stats update themselves
+```
 
-## 🧮 Data Structures & Algorithms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark" />
-</p>
+<div align="center">
 
-## 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express&theme=dark" />
-</p>
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-## 🧰 DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,vercel,netlify&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,git,docker,linux,vscode&theme=dark" />
 
----
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalidasMarndi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KalidasMarndi&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<br/><br/>
 
----
-## 🔗 Connect
-<p align="center">
-  <a href="mailto:marndikalidas7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
-  <a href="https://linkedin.com/in/kalidas-marndi">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="https://github.com/KalidasMarndi">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  </a>
-</p>
+### 📊 GitHub Stats
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KalidasMarndi&label=Profile+Views&color=7AA2F7&style=flat" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 
-<p align="center">
-  <i>Focused on fundamentals. Built for scale.</i>
-</p>
+<br/>
+
+### 🐍 Contribution Snake (animated)
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<!--END_SECTION:snake-->
+<!-- ^ This needs the platane/snk GitHub Action set up on your profile repo to generate -->
+
+<br/>
+
+### 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://skillicons.dev/icons?i=devto" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff9c&style=flat-square&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
+
+</div>
