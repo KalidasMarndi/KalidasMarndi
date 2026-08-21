@@ -85,10 +85,10 @@ Building Real-World Projects
 
 ## `- Contact`
 
-<table width="100%">
+<table width="10%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="5%" valign="top">
 
 ```text
 Email:
@@ -97,7 +97,7 @@ marndikalidas7@gmail.com
 
 </td>
 
-<td width="50%" valign="top">
+<td width="5%" valign="top">
 
 ```text
 GitHub:
