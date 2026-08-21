@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./overlay-image.jpg" width="100%" alt="Kalidas ASCII Art Profile"/>
+  <img src="./GithubProfile.png" width="100%" alt="Kalidas ASCII Art Profile"/>
 </p>
 
 <br>
